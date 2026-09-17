@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# LaTeX build artefacts (in case sources are added later)
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+
+# Textbooks and solution manuals are copyrighted, kept local
+Spivak-Calculus.pdf
+*Dummit and Foote Solutions*
+*Basic Probability Theory*
